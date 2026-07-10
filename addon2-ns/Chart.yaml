@@ -1,0 +1,5 @@
+apiVersion: v2
+name: addon2-ns
+description: Second addon that also creates the testing namespace
+version: 0.0.1
+appVersion: "1.0"
