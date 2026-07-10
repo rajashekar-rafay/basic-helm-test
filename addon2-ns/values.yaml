@@ -1,3 +1,3 @@
-namespace: testing
+namespace: rj-testing-ns
 createNamespace: true
 configMapName: repro-test-cm
